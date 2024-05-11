@@ -1,3 +1,4 @@
+![MathFun_Logo](Arquivos de Apoio\logo.png)
 # 🧮 MathFun! 🎉
 
 Cansado de ver seu filho entediado com problemas de matemática? 😴  Transforme a hora da lição em uma aventura épica com o MathFun! 🚀
@@ -9,7 +10,6 @@ Cansado de ver seu filho entediado com problemas de matemática? 😴  Transform
 1. Conte-nos um pouco sobre a criança: nome ou apelido (opcional), o que ela gosta. 👦👧
 2. Insira o problema de matemática que está dando trabalho. ➕➖✖️➗
 3. **Boom!** 💥 O MathFun transforma o problema em uma aventura personalizada, tornando a matemática mais divertida e fácil de entender! 🤩
-
 ### Exemplos:
 
 **Preferências:** Maria gosta de Minecraft
@@ -27,7 +27,7 @@ Cansado de ver seu filho entediado com problemas de matemática? 😴  Transform
 ### Recursos:
 
 * **Tradutor de exercícios:** Transforma problemas chatos em histórias emocionantes. 📖✨
-* **Gerador de listas de exercícios:** Crie listas personalizadas com temas que a criança adora! 📝❤️ [Veri]
+* **Gerador de listas de exercícios:** Crie listas personalizadas com temas que a criança adora! 📝❤️ [Verifique o exemplo]("https://github.com/BK-1314/Imers-o-IA-2a-Edicao/tree/main/Exemplos%20de%20Convers%C3%A3o%20de%20lista")
 * **Diversão e aprendizado:**  Matemática nunca mais será a mesma! 😄📚
 
 ### Para quem é o MathFun? 👨‍👩‍👧‍👦👩‍🏫
