@@ -1,4 +1,4 @@
-![MathFun_Logo](Arquivos de Apoio\logo.png)
+![MathFun_Logo](https://github.com/BK-1314/Imers-o-IA-2a-Edicao/blob/main/Arquivos%20de%20Apoio/logo.png)
 # 🧮 MathFun! 🎉
 
 Cansado de ver seu filho entediado com problemas de matemática? 😴  Transforme a hora da lição em uma aventura épica com o MathFun! 🚀
@@ -27,7 +27,7 @@ Cansado de ver seu filho entediado com problemas de matemática? 😴  Transform
 ### Recursos:
 
 * **Tradutor de exercícios:** Transforma problemas chatos em histórias emocionantes. 📖✨
-* **Gerador de listas de exercícios:** Crie listas personalizadas com temas que a criança adora! 📝❤️ [Verifique o exemplo]("https://github.com/BK-1314/Imers-o-IA-2a-Edicao/tree/main/Exemplos%20de%20Convers%C3%A3o%20de%20lista")
+* **Gerador de listas de exercícios:** Crie listas personalizadas com temas que a criança adora! 📝❤️ [Verifique o exemplo](https://github.com/BK-1314/Imers-o-IA-2a-Edicao/tree/main/Exemplos%20de%20Convers%C3%A3o%20de%20lista)
 * **Diversão e aprendizado:**  Matemática nunca mais será a mesma! 😄📚
 
 ### Para quem é o MathFun? 👨‍👩‍👧‍👦👩‍🏫
