@@ -27,7 +27,7 @@ Cansado de ver seu filho entediado com problemas de matemática? 😴  Transform
 ### Recursos:
 
 * **Tradutor de exercícios:** Transforma problemas chatos em histórias emocionantes. 📖✨
-* **Gerador de listas de exercícios:** Crie listas personalizadas com temas que a criança adora! 📝❤️
+* **Gerador de listas de exercícios:** Crie listas personalizadas com temas que a criança adora! 📝❤️ [Veri]
 * **Diversão e aprendizado:**  Matemática nunca mais será a mesma! 😄📚
 
 ### Para quem é o MathFun? 👨‍👩‍👧‍👦👩‍🏫
