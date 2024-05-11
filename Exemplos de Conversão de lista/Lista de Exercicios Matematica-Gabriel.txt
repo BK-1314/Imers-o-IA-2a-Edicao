@@ -1,0 +1,56 @@
+
+  Nome do Aluno: Gabriel
+  Turma:________
+  Professor:____________________
+  Data: ___/___/___
+
+  E aí, Gabriel, pronto para encarar alguns desafios matemáticos? Se liga nessas missões!
+
+**Adição**
+    
+1. O Homem de Ferro está construindo um novo traje e precisa de peças! Ele já encontrou 5 peças, e a Viúva Negra encontrou mais 3. Quantas peças eles têm agora para o traje?
+2. O Capitão América está treinando para uma corrida de carros! Ele já deu 4 voltas rápidas e 6 voltas lentas. Quantas voltas no total ele completou?
+3. No ônibus espacial dos Guardiões da Galáxia, 7 passageiros extraterrestres estão prontos para a decolagem. De repente, mais 4 passageiros chegam! Quantos passageiros o ônibus espacial levará agora?
+4. Thor está faminto depois de uma batalha! Ele tem 3 maçãs douradas de Asgard e 5 bananas espaciais. Quantas frutas Thor tem para comer?
+5. Pantera Negra está testando seus novos carrinhos de corrida super tecnológicos. Ele tinha 8 carrinhos e ganhou 2 novos modelos. Com quantos carrinhos o Pantera Negra pode correr agora?
+6. A Feiticeira Escarlate está preparando um banquete! Ela fez 9 bolos de chocolate com magia e 7 bolos de morango deliciosos. Quantos bolos a Feiticeira Escarlate fez ao todo?
+7. Na Academia dos Vingadores, 10 super-heroínas e 8 super-heróis estão treinando. Quantas crianças estão prontas para defender o universo?
+8. O gatinho Goose, da Capitã Marvel, é um Flerken faminto! Ele comeu 2 ratos Skrull pela manhã e 3 à noite. Quantos ratos Goose devorou no dia?
+9. No parque da cidade de Nova York, 6 crianças se divertem no balanço, enquanto 5 brincam no escorregador. Quantas crianças aproveitam o dia no parque?
+10. Para um lanche poderoso, a Vespa comprou 4 sucos de laranja e 5 sucos de uva. Quantos sucos a Vespa comprou para os heróis?
+
+**Subtração**      
+1. A Gamora tinha 8 discos voadores, mas deu 2 para o Rocket Raccoon. Com quantos discos voadores a Gamora ficou?
+2. Havia 10 soldados Chitauri se preparando para atacar a Terra, mas o Hulk esmagou 3 deles! Quantos soldados Chitauri restam para a invasão?
+3. O Homem-Formiga tinha 7 partículas Pym para mudar de tamanho, mas usou 4 para se infiltrar em uma base inimiga. Com quantas partículas Pym ele ainda pode contar?
+4. O Senhor das Estrelas preparou 12 cupcakes deliciosos, mas já devorou 5 com a Mantis. Quantos cupcakes ainda restam para Groot saborear?
+5. No aquário de Atlantis, 9 peixinhos nadavam alegremente, mas 2 foram capturados pelo Namor. Quantos peixinhos ainda encantam o reino submarino?
+6. O Professor Xavier comprou 15 laranjas para os alunos, mas 6 já foram comidas pelo Ciclope. Quantas laranjas ainda restam para os X-Men?
+7. Na biblioteca de Kamar-Taj, havia 13 livros de feitiços poderosos, mas o Doutor Estranho pegou 5 emprestados para estudar. Quantos livros de feitiços ainda guardam seus segredos na estante?
+8. A Tia May preparou 11 biscoitos caseiros, mas o Homem-Aranha já comeu 4. Quantos biscoitos a Tia May guardou para Peter Parker?
+9. O Gavião Arqueiro tinha 14 flechas especiais, mas perdeu 3 durante uma batalha contra os ninjas do Mão. Com quantas flechas ele pode acertar seus alvos agora?
+10. O Deadpool ganhou 17 balões vermelhos em uma festa, mas 8 estouraram em um ataque surpresa! Com quantos balões o Deadpool pode fazer suas palhaçadas?
+
+**Multiplicação**      
+1. O Homem de Ferro precisa construir 3 robôs ajudantes. Cada robô precisa de 4 peças especiais. Quantas peças o Homem de Ferro precisa encontrar no total?
+2. O Capitão América está colecionando cards dos Vingadores. Ele comprou 2 pacotes de figurinhas. Cada pacote tem 5 cards incríveis. Quantas figurinhas o Capitão América tem agora para sua coleção?
+3. Thor está decorando o salão de banquetes de Asgard com flores mágicas. Há 4 vasos dourados, cada um com 3 flores brilhantes. Quantas flores vão iluminar o salão de festas?
+4. A Viúva Negra precisa esconder suas bonecas espiãs em caixas secretas. Ela tem 5 caixas, e cada caixa guarda 2 bonecas. Quantas bonecas a Viúva Negra pode esconder no total?
+5. O Gavião Arqueiro está faminto depois de um longo treino! Ele comprou 3 pacotes de biscoitos. Cada pacote tem 6 biscoitos crocantes. Quantos biscoitos o Gavião Arqueiro pode devorar para saciar sua fome?
+6. No jardim de Asgard, 2 macieiras mágicas dão frutos deliciosos. Cada árvore tem 7 maçãs douradas. Quantas maçãs mágicas encantam o jardim de Asgard?
+7. Feiticeira Escarlate preparou caixas mágicas de bombons para seus amigos. Ela tem 4 caixas, e cada caixa guarda 8 bombons saborosos. Quantos bombons a Feiticeira Escarlate pode presentear seus amigos?
+8. Hulk está fazendo uma coleção de miniaturas dos Vingadores. Ele comprou 5 pacotes de miniaturas. Cada pacote tem 9 miniaturas detalhadas. Quantas miniaturas Hulk adicionou à sua coleção poderosa?
+9. Na biblioteca do Doutor Estranho, 3 prateleiras guardam livros de feitiços. Cada prateleira tem 10 livros com segredos místicos. Quantos livros escondem conhecimentos ancestrais na biblioteca?
+10. A Vespa está cultivando flores exóticas em seu laboratório secreto. Ela tem 2 vasos especiais, cada um com 6 flores vibrantes. Quantas flores enfeitam o laboratório da Vespa?
+
+**Divisão**
+1. O Homem de Ferro tem 12 propulsores para seus novos robôs. Ele quer dividir os propulsores igualmente entre 3 robôs. Quantos propulsores cada robô receberá para voar?
+2. O Capitão América tem 8 escudos vibranium para presentear seus amigos. Ele quer dividir os escudos igualmente entre 2 amigos. Quantos escudos cada amigo ganhará do Capitão América?
+3. Thor precisa enfeitar 5 mesas de banquete com flores mágicas. Ele tem 15 flores para distribuir igualmente entre as mesas. Quantas flores vão decorar cada mesa no salão de festas?
+4. A Viúva Negra tem 10 disfarces para missões secretas. Ela quer dividir os disfarces igualmente entre 2 amigas espiãs. Quantos disfarces cada amiga receberá da Viúva Negra?
+5. O Gavião Arqueiro comprou 18 flechas especiais para treinar com seus amigos. Ele quer dividir as flechas igualmente entre 3 amigos. Quantas flechas cada amigo receberá para praticar?
+6. No pomar de Asgard, 14 maçãs douradas foram colhidas. Thor quer dividir as maçãs igualmente entre 2 cestas mágicas. Quantas maçãs cada cesta carregará para o banquete?
+7. A Feiticeira Escarlate preparou 24 doces mágicos. Ela quer dividir os doces igualmente entre 4 caixas. Quantos doces mágicos cada caixa guardará para seus amigos?
+8. Hulk tem 36 pedras preciosas para presentear seus amigos. Ele quer dividir as pedras igualmente entre 6 amigos. Quantas pedras preciosas cada amigo ganhará do Hulk?
+9. O Doutor Estranho tem 20 livros de feitiços ancestrais. Ele quer dividir os livros igualmente entre 4 prateleiras em sua biblioteca. Quantos livros cada prateleira guardará para preservar os segredos mágicos?
+10. A Vespa tem 16 flores exóticas para decorar seu laboratório. Ela quer dividir as flores igualmente entre 4 vasos. Quantas flores vão embelezar cada vaso no laboratório secreto? 

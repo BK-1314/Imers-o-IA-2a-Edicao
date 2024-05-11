@@ -1,0 +1,59 @@
+
+  Nome do Aluno: Laura
+  Turma:________
+  Professor:____________________
+  Data: ___/___/___
+
+  Olá, Laura, princesa dos problemas matemáticos! Prepare-se para usar sua varinha mágica e resolver estes desafios:
+
+**Adição**
+
+1. A Cinderela está organizando um baile e convidou 5 princesas. A Bela Adormecida convidou mais 3 princesas para irem ao baile também. Quantas princesas estarão no baile da Cinderela? 
+2. A Ariel encontrou 4 conchas roxas e 6 conchas rosas. Quantas conchas a Ariel encontrou no total?
+3. No castelo da Bela, havia 7 príncipes. Chegaram mais 4 príncipes para o chá da tarde. Quantos príncipes estão no castelo agora?
+4. A Mulan preparou uma cesta com 3 maçãs encantadas e 5 mangas douradas. Quantas frutas mágicas há na cesta da Mulan?
+5. O Príncipe Eric tinha 8 barcos. Ganhou mais 2 barcos da Ariel. Com quantos barcos o Príncipe Eric ficou?
+6. A Branca de Neve fez 9 bolos de framboesa e 7 bolos de mirtilo para os anões. Quantos bolos a Branca de Neve fez ao todo?
+7. No castelo da Rapunzel, há 10 fadas madrinhas e 8 bruxas boas. Quantos seres mágicos há no castelo?
+8. A gatinha da Jasmine, Rajah, comeu 2 ratos mágicos de manhã e 3 à noite. Quantos ratos mágicos a Rajah comeu no dia?
+9. No jardim encantado, 6 fadas brincam de pique-esconde e 5 fadas brincam de estátua. Quantas fadas brincam no jardim?
+10. Para o piquenique, a Pocahontas preparou 4 sucos de morango e 5 sucos de amora. Quantos sucos a Pocahontas preparou?
+
+**Subtração**
+
+1. A Barbie tinha 8 vestidos de baile e deu 2 para sua amiga Teresa. Com quantos vestidos de baile a Barbie ficou?
+2. Havia 10 pôneis mágicos no estábulo da Barbie, mas 3 fugiram para a floresta. Quantos pôneis mágicos ficaram no estábulo?
+3. O Ken tinha 7 carrinhos esportivos, mas perdeu 4 em uma corrida. Com quantos carrinhos o Ken ficou?
+4. A Barbie fez 12 cupcakes de morango, mas a Chelsea já comeu 5. Quantos cupcakes ainda restam?
+5. No castelo da Barbie, havia 9 gatinhos, mas 2 fugiram para o jardim. Quantos gatinhos ficaram no castelo?
+6. A Barbie comprou 15 pares de sapatos novos, mas já usou 6. Quantos pares de sapato ainda estão novos?
+7. Na penteadeira da Barbie, havia 13 batons, mas ela deu 5 para a Skipper. Quantos batons ficaram na penteadeira?
+8. A Barbie fez 11 pulseiras de flores, mas já deu 4 para as amigas. Quantas pulseiras de flores a Barbie ainda tem?
+9. A Barbie tinha 14 coroas brilhantes, mas perdeu 3 no baile real. Com quantas coroas brilhantes a Barbie ficou?
+10. A Barbie ganhou 17 balões em forma de coração, mas 8 estouraram. Com quantos balões a Barbie ficou?
+
+**Multiplicação**
+
+1. A Barbie tem 3 caixas com 4 pares de sapatos em cada caixa. Quantos pares de sapatos a Barbie tem no total?
+2. A Barbie comprou 2 vestidos, e cada vestido veio com 5 laços diferentes. Quantos laços a Barbie ganhou no total?
+3. Há 4 quartos no castelo da Barbie, e cada quarto tem 3 camas de princesa. Quantas camas há no total?
+4. A Barbie tem 5 caixas com 2 coroas brilhantes em cada caixa. Quantas coroas a Barbie tem no total?
+5. O Ken comprou 3 caixas de suco, e cada caixa tem 6 sucos. Quantos sucos o Ken comprou?
+6. Há 2 jardins no castelo da Barbie, e cada jardim tem 7 fontes mágicas. Quantas fontes mágicas há no total?
+7. A Barbie tem 4 caixas com 8 anéis mágicos em cada caixa. Quantos anéis a Barbie tem no total?
+8. O Ken comprou 5 pacotes de adesivos, e cada pacote tem 9 adesivos. Quantos adesivos o Ken comprou?
+9. Há 3 prateleiras na biblioteca da Barbie, e cada prateleira tem 10 livros de contos de fada. Quantos livros há no total?
+10. A Barbie tem 2 vasos de cristal, e cada vaso tem 6 rosas mágicas. Quantas rosas a Barbie tem no total?
+
+**Divisão**
+
+1. A Barbie tem 12 morangos para dividir igualmente entre 3 amigas. Quantos morangos cada amiga receberá?
+2. O Ken tem 8 carrinhos para dividir igualmente entre 2 amigos. Quantos carrinhos cada amigo receberá?
+3. A Barbie tem 15 flores mágicas para colocar em 5 vasos, colocando a mesma quantidade em cada vaso. Quantas flores cada vaso terá?
+4. A Barbie tem 10 coroas para dividir igualmente entre 2 amigas. Quantas coroas cada amiga receberá?
+5. O Ken tem 18 biscoitos de chocolate para dividir igualmente entre 3 amigos. Quantos biscoitos cada amigo receberá?
+6. A Barbie tem 14 maçãs douradas para dividir igualmente entre 2 cestas. Quantas maçãs cada cesta terá?
+7. A Barbie tem 24 colares de pérolas para dividir igualmente entre 4 caixas. Quantos colares cada caixa terá?
+8. O Ken tem 36 balas de goma para dividir igualmente entre 6 amigos. Quantas balas cada amigo receberá?
+9. A Barbie tem 20 livros de contos de fadas para colocar em 4 prateleiras, colocando a mesma quantidade em cada prateleira. Quantos livros cada prateleira terá?
+10. A Barbie tem 16 flores de cristal para dividir igualmente entre 4 vasos. Quantas flores cada vaso terá? 

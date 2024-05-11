@@ -1,0 +1,59 @@
+
+  Nome do Aluno: Bruno
+  Turma:________
+  Professor:____________________
+  Data: ___/___/___
+
+  Fala, Bruno! Tudo pronto para usar a matemática no mundo do Minecraft e do Futebol?
+
+**Adição**
+
+1. Bruno encontrou 5 diamantes em uma caverna e depois achou mais 3 em um baú. Quantos diamantes ele tem agora?
+2. No seu time de futebol, 4 jogadores usam chuteiras azuis e 6 usam chuteiras vermelhas. Quantos jogadores há no time?
+3. Bruno construiu 7 casas em sua vila no Minecraft e seu amigo construiu mais 4. Quantas casas eles construíram juntos?
+4. Em uma partida de futebol, Bruno marcou 3 gols e seu amigo marcou 5. Quantos gols eles marcaram juntos?
+5. Bruno ganhou 8 blocos de esmeralda e depois encontrou mais 2 em um templo. Quantos blocos de esmeralda ele tem agora?
+6. Bruno plantou 9 árvores de carvalho e 7 árvores de bétula em sua floresta no Minecraft. Quantas árvores ele plantou no total?
+7. No campeonato de futebol, 7 times usam uniforme verde e 8 usam uniforme amarelo. Quantos times participam do campeonato?
+8. Bruno encontrou 2 ovelhas brancas e 3 ovelhas pretas em sua fazenda no Minecraft. Quantas ovelhas ele encontrou no total?
+9. No parque, 6 crianças jogam futebol e 5 andam de bicicleta. Quantas crianças estão no parque?
+10. Bruno comprou 4 poções de cura e 5 poções de força no Minecraft. Quantas poções ele comprou no total?
+
+**Subtração**
+
+1. Bruno tinha 8 flechas, mas usou 2 para derrotar esqueletos. Com quantas flechas ele ficou?
+2. Havia 10 jogadores no time de Bruno, mas 3 se machucaram e saíram do jogo. Quantos jogadores restaram no time?
+3. Bruno tinha 7 blocos de ouro, mas usou 4 para construir uma armadura. Com quantos blocos de ouro ele ficou?
+4. Bruno fez 12 cookies, mas já comeu 5. Quantos cookies ainda restam?
+5. Bruno tinha 9 espadas de ferro, mas 2 quebraram durante uma batalha. Quantas espadas ele ainda tem?
+6. Bruno tinha 15 maçãs, mas deu 6 para seus amigos. Quantas maçãs ele ainda tem?
+7. Bruno tinha 13 tochas, mas usou 5 para iluminar uma caverna. Quantas tochas ele ainda tem?
+8. Bruno assou 11 pães, mas já comeu 4. Quantos pães ainda restam?
+9. Bruno tinha 14 lápis de cor, mas perdeu 3. Com quantos lápis ele ficou?
+10. Bruno ganhou 17 balões na festa, mas 8 estouraram. Com quantos balões ele ficou?
+
+**Multiplicação**
+
+1. Bruno encontrou 3 baús, cada baú com 4 diamantes. Quantos diamantes Bruno encontrou no total?
+2. Bruno comprou 2 pacotes de figurinhas de jogadores de futebol. Cada pacote tem 5 figurinhas. Quantas figurinhas Bruno comprou?
+3. Bruno plantou 4 fileiras de árvores, com 3 árvores em cada fileira. Quantas árvores Bruno plantou no total?
+4. Bruno organizou seus bonecos de jogadores de futebol em 5 caixas, com 2 bonecos em cada caixa. Quantos bonecos Bruno tem?
+5. Bruno comprou 3 pacotes de biscoitos. Cada pacote tem 6 biscoitos. Quantos biscoitos Bruno comprou?
+6. Bruno plantou 2 pomares, com 7 macieiras em cada pomar. Quantas macieiras Bruno plantou no total?
+7. Bruno fez 4 bolos, cada bolo com 8 morangos. Quantos morangos Bruno usou nos bolos?
+8. Bruno comprou 5 pacotes de balas, cada pacote com 9 balas. Quantas balas Bruno comprou?
+9. Bruno organizou seus livros sobre Minecraft em 3 prateleiras, com 10 livros em cada prateleira. Quantos livros Bruno tem?
+10. Bruno plantou 2 jardins, com 6 flores em cada jardim. Quantas flores Bruno plantou no total?
+
+**Divisão**
+
+1. Bruno quer dividir 12 diamantes igualmente entre seus 3 amigos. Quantos diamantes cada amigo receberá?
+2. Bruno quer dividir 8 figurinhas de jogadores de futebol igualmente entre seus 2 irmãos. Quantas figurinhas cada irmão receberá?
+3. Bruno quer colocar 15 flores em 5 vasos, com a mesma quantidade em cada vaso. Quantas flores cada vaso terá?
+4. Bruno quer dividir 10 bonecos de jogadores de futebol igualmente entre seus 2 amigos. Quantos bonecos cada amigo receberá?
+5. Bruno quer dividir 18 biscoitos igualmente entre seus 3 amigos. Quantos biscoitos cada amigo receberá?
+6. Bruno quer dividir 14 maçãs igualmente entre 2 cestas. Quantas maçãs cada cesta terá?
+7. Bruno quer dividir 24 bombons igualmente entre 4 caixas. Quantos bombons cada caixa terá?
+8. Bruno quer dividir 36 balas igualmente entre seus 6 amigos. Quantas balas cada amigo receberá?
+9. Bruno quer organizar 20 livros sobre Minecraft em 4 prateleiras, com a mesma quantidade em cada prateleira. Quantos livros cada prateleira terá?
+10. Bruno quer plantar 16 flores em 4 vasos, com a mesma quantidade em cada vaso. Quantas flores cada vaso terá? 

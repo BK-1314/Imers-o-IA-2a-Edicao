@@ -1,0 +1,45 @@
+﻿Adição
+    
+1        Maria tem 5 balas e ganhou mais 3 de seu irmão. Quantas balas Maria tem agora?
+2        João plantou 4 flores vermelhas e 6 flores amarelas. Quantas flores João plantou no total?
+3        No ônibus havia 7 passageiros e entraram mais 4 na próxima parada. Quantos passageiros há no ônibus agora?
+4        Na cesta de frutas, há 3 maçãs e 5 bananas. Quantas frutas há na cesta?
+5        Pedro tinha 8 carrinhos e ganhou mais 2 de presente. Com quantos carrinhos Pedro ficou?
+6        Ana fez 9 bolos de chocolate e 7 bolos de morango. Quantos bolos Ana fez ao todo?
+7        Na sala de aula, há 10 meninas e 8 meninos. Quantas crianças há na sala?
+8        O gatinho Mimi comeu 2 ratinhos pela manhã e 3 à noite. Quantos ratinhos Mimi comeu no dia?
+9        No parque, 6 crianças brincam no balanço e 5 no escorregador. Quantas crianças brincam no parque?
+10        Para o lanche, mamãe comprou 4 sucos de laranja e 5 sucos de uva. Quantos sucos mamãe comprou?
+Subtração      
+1        Laura tinha 8 bonecas e deu 2 para sua amiga. Com quantas bonecas Laura ficou?
+2        Havia 10 pássaros na árvore e 3 voaram para longe. Quantos pássaros ficaram na árvore?
+3        João tinha 7 bolinhas de gude e perdeu 4. Com quantas bolinhas João ficou?
+4        Mamãe fez 12 cupcakes e já comemos 5. Quantos cupcakes ainda restam?
+5        No aquário, havia 9 peixinhos e 2 morreram. Quantos peixinhos ficaram no aquário?
+6        Papai comprou 15 laranjas e já comemos 6. Quantas laranjas ainda restam?
+7        Na estante, havia 13 livros e retiramos 5 para ler. Quantos livros ficaram na estante?
+8        Vovó fez 11 biscoitos e já comemos 4. Quantos biscoitos ainda restam?
+9        Tinha 14 lápis de cor na caixa e perdi 3. Com quantos lápis de cor fiquei?
+10        Ganhei 17 balões na festa, mas 8 estouraram. Com quantos balões fiquei?
+Multiplicação      
+1        Maria tem 3 caixas com 4 lápis em cada caixa. Quantos lápis Maria tem no total?
+2        João comprou 2 pacotes de figurinhas. Cada pacote tem 5 figurinhas. Quantas figurinhas João comprou?
+3        Há 4 vasos com 3 flores em cada vaso. Quantas flores há no total?
+4        Ana tem 5 caixas com 2 bonecas em cada caixa. Quantas bonecas Ana tem?
+5        Pedro comprou 3 pacotes de biscoitos. Cada pacote tem 6 biscoitos. Quantos biscoitos Pedro comprou?
+6        Há 2 árvores com 7 maçãs em cada árvore. Quantas maçãs há no total?
+7        Maria tem 4 caixas com 8 bombons em cada caixa. Quantos bombons Maria tem?
+8        João comprou 5 pacotes de balas. Cada pacote tem 9 balas. Quantas balas João comprou?
+9        Há 3 prateleiras com 10 livros em cada prateleira. Quantos livros há no total?
+10        Ana tem 2 vasos com 6 flores em cada vaso. Quantas flores Ana tem no total?
+Divisão
+1        Maria tem 12 balas para dividir igualmente entre 3 amigos. Quantas balas cada amigo receberá?
+2        João tem 8 figurinhas para dividir igualmente entre 2 amigos. Quantas figurinhas cada amigo receberá?
+3        Há 15 flores para colocar em 5 vasos, colocando a mesma quantidade em cada vaso. Quantas flores cada vaso terá?
+4        Ana tem 10 bonecas para dividir igualmente entre 2 amigas. Quantas bonecas cada amiga receberá?
+5        Pedro tem 18 biscoitos para dividir igualmente entre 3 amigos. Quantos biscoitos cada amigo receberá?
+6        Há 14 maçãs para dividir igualmente entre 2 cestas. Quantas maçãs cada cesta terá?
+7        Maria tem 24 bombons para dividir igualmente entre 4 caixas. Quantos bombons cada caixa terá?
+8        João tem 36 balas para dividir igualmente entre 6 amigos. Quantas balas cada amigo receberá?
+9        Há 20 livros para colocar em 4 prateleiras, colocando a mesma quantidade em cada prateleira. Quantos livros cada prateleira terá?
+10        Ana tem 16 flores para dividir igualmente entre 4 vasos. Quantas flores cada vaso terá?
