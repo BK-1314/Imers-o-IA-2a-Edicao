@@ -54,11 +54,8 @@ Estamos animados com o futuro do MathFun e planejamos incluir ainda mais recurso
 * **Imagens geradas por IA:** Imagine problemas com ilustrações únicas criadas pelo Stable Diffusion! 🎨🤖
 * **Frameworks de Desenvolvimento Web:** Para criar a interface interativa do MathFun.
 
-
-### MathFun é um projeto em desenvolvimento, mas já está cheio de potencial! Junte-se a nós nesta aventura e vamos transformar a matemática em uma experiência divertida para todas as crianças! 🌈🌟
-
 ---
 
-**Observação:** Este projeto ainda está em desenvolvimento. Fique ligado para futuras atualizações com mais funcionalidades e recursos! 🚀
+**Observação:** MathFun é um projeto em desenvolvimento, mas já está cheio de potencial! Fique ligado para futuras atualizações com mais funcionalidades e recursos! 🚀
 
 **Contribuições são bem-vindas!** 😉
